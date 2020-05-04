@@ -19,5 +19,6 @@ class String
       array.delete(" ")
       array.delete(nil)
       array.count
+      binding.pry
   end
 end
