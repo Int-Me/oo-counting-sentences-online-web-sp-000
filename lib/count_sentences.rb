@@ -18,6 +18,7 @@ class String
       array = self.split("!.?")
       array.delete(" ")
       array.delete(nil)
+      array.count
       end
   end
 end
