@@ -19,6 +19,5 @@ class String
       array.delete(" ")
       array.delete(nil)
       array.count
-      end
   end
 end
